@@ -1,4 +1,5 @@
 # Visual Studio Code
 
 
-![wallpaper](screenshot.png)
+<img alt="screenshot" src="https://github.com/coodyme/theme/blob/main/packages/visual-studio-code/screenshot.png?raw=true">
+
