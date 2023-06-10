@@ -1,0 +1,8 @@
+{
+  "name": "coody-theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:coodyme/theme.git",
+  "author": "COODY <hi@coody.me",
+  "license": "MIT"
+}
