@@ -1,6 +1,6 @@
 {
-  "name": "coody",
-  "type": "dark",
+  "name": "COODY Dark",
+  "base": "vs-dark",
   "colors": {
     "foreground": "#666666",
     "focusBorder": "#111111",
