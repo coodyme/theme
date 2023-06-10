@@ -1,0 +1,40 @@
+{
+  "publisher": "coodyme",
+  "name": "coody-theme",
+  "displayName": "COODY Theme",
+  "description": "COODY theme for VS Code",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coodyme/theme"
+  },
+  "bugs": {
+    "url": "https://github.com/coodyme/theme/issues"
+  },
+  "keywords": [
+    "theme",
+    "coody",
+    "light",
+    "dark"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "files": [
+    "themes"
+  ],
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "COODY Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/coody-dark.json"
+      }
+    ]
+  }
+}
