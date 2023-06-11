@@ -3,7 +3,7 @@
   "name": "coody-theme",
   "displayName": "COODY Theme",
   "description": "COODY theme for VS Code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -26,7 +26,7 @@
     "themes"
   ],
   "engines": {
-    "vscode": "^1.79.0"
+    "vscode": "^1.43.0"
   },
   "contributes": {
     "themes": [
