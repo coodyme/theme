@@ -4,14 +4,7 @@
   <img alt="icon" src="screenshots/infinity.png">
 </p>
 
-<p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=coodyme.infinity" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/coodyme.infinity.svg?color=00DFD8&amp;label=Marketplace&logo=visual-studio-code" alt="Visual Studio Marketplace Version" />
-  </a>
-</p>
-
 A fancy theme for multiple applications.
-
-> This is a work in progress
 
 - Light theme will be added soon.
 - Support for new applications will be available.
