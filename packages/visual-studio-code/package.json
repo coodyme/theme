@@ -3,14 +3,14 @@
   "name": "theme-infinity",
   "displayName": "Infinity",
   "description": "A fancy theme for VS Code.",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/coodyme/theme"
+    "url": "https://github.com/coodyme/infinity"
   },
   "bugs": {
-    "url": "https://github.com/coodyme/theme/issues"
+    "url": "https://github.com/coodyme/infinity/issues"
   },
   "keywords": [
     "theme",
