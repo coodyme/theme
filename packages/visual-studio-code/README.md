@@ -1,6 +1,6 @@
 # Visual Studio Code
 
-
-<img alt="screenshot" src="https://github.com/coodyme/theme/blob/main/packages/visual-studio-code/screenshot.png?raw=true">
+<img alt="visual-studio-code-dark" src="https://github.com/coodyme/theme/blob/main/screenshots/visual-studio-code-dark.png?raw=true">
 
 Recommended Font: Fira Code from [Nerd Fonts](https://www.nerdfonts.com/font-downloads)
+    

@@ -1,9 +1,9 @@
 {
   "publisher": "coodyme",
-  "name": "coody-theme",
-  "displayName": "COODY Theme",
-  "description": "COODY theme for VS Code",
-  "version": "1.0.1",
+  "name": "infinity",
+  "displayName": "Infinity",
+  "description": "A fancy theme for VS Code.",
+  "version": "1.0.2",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -14,6 +14,7 @@
   },
   "keywords": [
     "theme",
+    "infinity",
     "coody",
     "light",
     "dark"
@@ -22,6 +23,10 @@
     "Themes"
   ],
   "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#111111",
+    "theme": "dark"
+},
   "files": [
     "themes"
   ],
@@ -31,9 +36,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "COODY Dark",
+        "label": "Infinity Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/coody-dark.json"
+        "path": "./themes/infinity-dark.json"
       }
     ]
   }

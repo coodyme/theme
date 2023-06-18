@@ -1,9 +1,9 @@
 {
-  "name": "theme",
+  "name": "infinity",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/coodyme/theme"
+    "url": "https://github.com/coodyme/infinity"
   },
   "author": "COODY <hi@coody.me",
   "license": "MIT"
